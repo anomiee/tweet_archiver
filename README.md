@@ -9,7 +9,7 @@ I have tried using different techniques to retrieve all of a user's tweets, such
 
 This is the only limitation of this script. If you have a way around it, please open an issue.
 
-# Setup
+## Setup
 
 **Requirements**:
 
